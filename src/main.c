@@ -3,7 +3,6 @@
 #include <string.h>
 
 #include "vm.h"
-#include "common.h"
 
 static void repl() {
   char line[1024];
